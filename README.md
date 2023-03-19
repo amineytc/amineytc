@@ -1,11 +1,13 @@
-# <div align="center"><p>Hi, I’m Amine :hand:</p> </div>
-## <div align="center"><p>Computer Engineer </p></div>  
-## <div align="center"><p>Languages, Frameworks & Tools</p> </div>  
-<img align="left" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-<img align="left"  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img align="left"  src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-<img align="left"  src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
-<img align="left"  src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
-<img align="left"  src="https://img.shields.io/badge/Kotlin-008000?style=for-the-badge&logo=Kotlin&logoColor=white"/>
+<h1 align="center">Hi 👋, I'm Amine Aytaç</h1>
+<h3 align="center">Cyber Security Engineer</h3>
 
+- 🌱 I’m currently learning **Network & Linux**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/amine-aytac/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amine-aytac/" height="30" width="40" /></a>
+<a href="https://medium.com/@amineytc_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amineytc_" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
