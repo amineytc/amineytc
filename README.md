@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amine Aytaç</h1>
+<h1 align="center">Hi 👋, I'm Amine</h1>
 <h3 align="center"> Jr. Android Developer</h3>
 
 - 🌱 I’m currently learning **Android & Kotlin**
