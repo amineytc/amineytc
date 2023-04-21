@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Android & Kotlin**
 
-- 📫 How to reach me **aytacamine633@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
