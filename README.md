@@ -3,7 +3,7 @@
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="400">
 
-- 🌱 I’m currently learning **Android & Kotlin**
+- 🌱 I’m currently learning **Android | Kotlin | Firebase**
 
 
 
