@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amine</h1>
 <h3 align="center">Jr. Android Developer</h3>
 
-<img src="https://media.giphy.com/media/TLnWsIBRegQyWxG4Dw/giphy.gif](https://media.giphy.com/media/TLnWsIBRegQyWxG4Dw/giphy.gif" align="right" width="400">
+<img src="https://media.giphy.com/media/gioLPAqDRZjzYpmuCp/giphy.gif" align="right" width="400">
 
 - 🌱 I’m currently learning **Android | Kotlin | Firebase**
 
